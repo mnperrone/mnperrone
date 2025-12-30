@@ -9,7 +9,7 @@ Construyo APIs REST producción-ready, microservicios, plugins Moodle y herramie
 ## Lo último que entregué (2025)
 | Proyecto                          | Stack                                 | Estado       | Link |
 |-----------------------------------|---------------------------------------|--------------|------|
-| **Laravel 11 Tasks API**          | Laravel 11 · PostgreSQL · Redis · JWT · Queues · Swagger · Docker | Producción-ready | [laravel-11-tasks-api](https://github.com/mnperrone/laravel-11-tasks-api) |
+| **Laravel 11 Tasks API**          | Laravel 11 · PostgreSQL · Redis · JWT · Queues · Swagger · Docker | Producción-ready | [laravel-11-tasks-api](https://github.com/mnperrone/laravel-tasks-api) |
 | **Puente LLM ↔ MCP**              | Python · Tkinter · Ollama · Groq · OpenAI · MCP servers | En producción | [puente-llm-mcp](https://github.com/mnperrone/puente-llm-mcp) |
 | **Plugin Moodle – Lista estudiantes** | PHP 8 · Moodle API · MySQL         | En producción (cliente e-learning) | Privado – disponible bajo entrevista |
 
