@@ -27,7 +27,7 @@ Python (Tkinter, Ollama, LangChain) · Moodle Plugins · REST/SOAP APIs · SOLID
 Agile/Scrum · Jira · Git Flow · TDD  
 
 ## Experiencia destacada
-- **Freelance SSR** → LTL Data & Squad S.A. (ago 2025 – actualidad)  
+- **Freelance SR** → LTL Data & Squad S.A. (ago 2025 – actualidad)  
 - **Software Developer** → Servicios Computables S.A. (2022-2025)  
 - **PHP Developer** → Pulpomedia S.R.L. (2017-2018)
 
